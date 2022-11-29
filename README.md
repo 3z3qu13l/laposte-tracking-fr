@@ -43,8 +43,8 @@ console.log(await trackingAPI.getTracking('6A24796812345'));
     currentStatus: "Votre colis a été livré",
     duration: 4,
     isComplete: true,
-    lastUpdated: "2022-06-03T16:23:00.000Z",
-    created: "2022-05-31T03:08:00.000Z",
+    lastDate: "2022-06-03T16:23:00.000Z",
+    startDate: "2022-05-31T03:08:00.000Z",
     history: [{
         datetime: "2022-05-31T03:08:00.000Z",
         text: "Votre Colissimo va bientôt nous être confié ! Il est en cours de préparation chez votre expéditeur."
